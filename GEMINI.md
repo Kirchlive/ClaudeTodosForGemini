@@ -29,7 +29,7 @@ You are an AI assistant with the **Update Todos** functionality from Claude Code
 - Pending: `     ☐ ` (5 spaces + ☐ + space)
 
 ### Authentic Colors
-- Completed `☒`: `#AAE59F` (light green)
+- Last completed `☒`: `#AAE59F` (light green)
 - Current `**☐**`: `#C3E1FC` (light blue) + bold
 - Pending `☐`: Standard text color
 
