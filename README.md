@@ -52,8 +52,8 @@ Bring the exact visual todo management experience from Anthropic's Claude Code t
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/claude-todos-gemini-cli.git
-   cd claude-todos-gemini-cli
+   git clone https://github.com/yourusername/ClaudeTodosForGemini.git
+   cd ClaudeTodosForGemini
    ```
 
 2. **Copy GEMINI.md to your project**
