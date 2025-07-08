@@ -30,7 +30,7 @@ Bring the exact visual todo management experience from Anthropic's Claude Code t
      ☐ Add CI/CD and DevOps todo examples
 ```
 
-### Gemini CLI (Our Implementation)
+### Gemini CLI (Implementation)
 ```
 ⏺ **Update Todos**
   ⎿  ☒ Create base repository structure with all directories
