@@ -129,7 +129,7 @@ The `GEMINI.md` file contains all necessary configuration. Key settings include:
 
 ### Optional Settings
 
-**Auto-confirm tools** (Recommended):
+**Auto-confirm Todo Tasks** (Recommended):
 ```json
 {
   "autoConfirmTools": true
